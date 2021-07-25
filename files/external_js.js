@@ -1,1 +1,3 @@
-alert("Test");
+function showAlert() {
+    alert("Test");
+}
