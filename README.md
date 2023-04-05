@@ -1,4 +1,4 @@
-# ExplGamma.github.io
+# [explgamma.github.io](www.explgamma.github.io)
 
 ## Gamer
 :)
